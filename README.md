@@ -1,4 +1,4 @@
-# Identificador de Sites
+## Identificador de Sites
 
 O Identificador de Sites é uma aplicação desenvolvida em Python que permite identificar automaticamente informações de um site a partir de uma URL fornecida pelo usuário.
 
